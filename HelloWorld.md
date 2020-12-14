@@ -1,4 +1,3 @@
-  
 ---
 title: "HelloWorld"
 author: "Barlykov Beket"
